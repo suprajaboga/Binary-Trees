@@ -11,7 +11,6 @@ class Node
 		left=right=null;
 	}
 }
-
 public class heightofbinarytree 
 {
 	Node root;
@@ -29,7 +28,7 @@ public class heightofbinarytree
 	}
 	public static void main(String[] args) 
 	{
-		heightofbinarytree tree = new heightofbinarytree();
+	     heightofbinarytree tree = new heightofbinarytree();
 	     tree.root = new Node(1);
 	     tree.root.left = new Node(2);
 	     tree.root.right = new Node(3);
