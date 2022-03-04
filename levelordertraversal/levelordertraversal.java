@@ -11,7 +11,6 @@ class Node
 		left=right=null;
 	}
 }
-
 public class levelordertraversal 
 {
 	Node root;
@@ -31,7 +30,7 @@ public class levelordertraversal
 	}
 	public static void main(String[] args) 
 	{
-		 levelordertraversal tree = new levelordertraversal();
+	     levelordertraversal tree = new levelordertraversal();
 	     tree.root = new Node(1);
 	     tree.root.left = new Node(2);
 	     tree.root.right = new Node(3);
