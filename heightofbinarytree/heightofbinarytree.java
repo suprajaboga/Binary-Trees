@@ -20,11 +20,7 @@ public class heightofbinarytree
 			return -1;
 		int ldepth = print(node.left);
 		int rdepth = print(node.right);
-		
-		if(ldepth > rdepth)
-			return ldepth + 1;
-		else
-			return rdepth + 1;
+		return 1 + Math.max(ldepth, rdepth);
 	}
 	public static void main(String[] args) 
 	{
