@@ -1,0 +1,10 @@
+Full BT - Each node has either 0 or 2 child nodes
+Complete BT - All the nodes are completely filled except the last level and last level nodes should be as left as possible
+Perfect BT - All leaf nodes should be at the same level
+Balanced BT - Difference between the left and the right subtree for any node is not more than one
+Degenerate BT - Skew binary tree - all the nodes will be present either on left side or on right side
+
+level order traversal
+reverse level order traversal
+height of a tree
+inorder, preorder, post order
