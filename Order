@@ -7,4 +7,5 @@ Degenerate BT - Skew binary tree - all the nodes will be present either on left 
 level order traversal
 reverse level order traversal
 height of a tree
+mirror of a tree
 inorder, preorder, post order
