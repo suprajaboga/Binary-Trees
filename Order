@@ -7,8 +7,9 @@ Degenerate BT - Skew binary tree - all the nodes will be present either on left 
 Level order traversal
 Reverse level order traversal
 Height of a BT
-irror of a BT
+Mirror of a BT
 Inorder, Preorder, Post order
 Left view of BT
 Zigzag traversal of BT
 Check for balanced BT
+Diagonal traversal of BT
